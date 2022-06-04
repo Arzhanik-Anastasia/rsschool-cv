@@ -24,3 +24,7 @@ HTML, CSS, JavaScript, Git
 - [Landing](https://senla-animal.netlify.app/)
 - [ToDo](https://senla-reactjs-todoapp.netlify.app/)
 - [Films DB](https://senla-movies.netlify.app/)
+
+## English
+
+- A1
